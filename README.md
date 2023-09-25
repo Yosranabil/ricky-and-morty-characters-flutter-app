@@ -7,6 +7,6 @@ This Flutter app allows you to explore the characters from the popular animated 
 * View detailed information about each character, including their name, status, species, and more.
 * Search for characters by name.
 * Elegant and responsive user interface.
-* # Offline Connectivity:
+* Offline Connectivity:
   This app leverages the `flutter_offline` package to handle offline connectivity. It provides an intuitive and flexible way to detect and respond to changes in network connectivity,     
   allowing the app to adapt to both online and offline scenarios seamlessly.
